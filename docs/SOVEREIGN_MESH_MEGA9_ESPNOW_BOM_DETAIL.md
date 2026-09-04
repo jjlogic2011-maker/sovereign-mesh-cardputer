@@ -1,0 +1,1 @@
+See local artifact for full MEGA9 layer implementation, ESP-NOW deep dive, refined BOM with costs, and execution order. Content preserved from prior cycle.
